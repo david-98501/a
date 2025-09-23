@@ -7,3 +7,12 @@ def saludar (nombre ):
 
 
 saludar("david")
+
+#commit 
+def validacion(x):
+    if (x<18):
+        print ("menor de edad ")
+    else :
+        print ("bienvenido")
+
+validacion(17)
