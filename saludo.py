@@ -16,3 +16,9 @@ def validacion(x):
         print ("bienvenido")
 
 validacion(17)
+
+def suma (x,y):
+    suma=x+y
+    print (suma)
+
+suma(9,9)
